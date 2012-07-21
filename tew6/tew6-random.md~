@@ -1,7 +1,0 @@
-# Erlang/OTP *random* module: issues and solutions<br>27-JUL-2012<br>Kenji Rikitake
-
----
-
-## The random module
-
-* Generating pseudo random number between [0, 1)
